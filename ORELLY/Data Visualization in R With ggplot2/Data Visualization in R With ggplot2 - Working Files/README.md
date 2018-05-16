@@ -53,11 +53,11 @@ Color scales 主要有三種，也分別適合用於不同 use cases
 - Data
     - Data frame，每個 column 代表一個變數
 - Aesthetics
-    - 將 Data 對應到 *visual variables* 如 X、Y、顏色
+    - 將 Data 對應到 *visual variables* 如 X、Y、顏色等 scales
 - Geometric Objects (Geoms)
     - Visual elements，如點、線、形狀
 - Statistical Transformations (Stats)
-    - 轉換資料，通常用於 summary: Distribution、Smoother
+    - 轉換資料，通常用於 summary，幫助理解資料: Distribution、Smoother
     - 通常 work behind scene，但可 override
 - Facets
     - 將資料分成多個 small multiples
